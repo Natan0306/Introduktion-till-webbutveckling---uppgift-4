@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(59, 187, 187);
+    width: ;
+}
+h1 {
+    color: purple;
+}
+
+button {
+    background-color: rgb(222, 163, 222);
+}
+
+h2 {
+    color: red;
+}
+
+.klar {
+    text-decoration: line-through;
+    color: grey;
+}
